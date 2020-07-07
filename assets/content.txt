@@ -1,0 +1,52 @@
+contact works experience twitter linkedin
+
+
+Hi, i’m
+Kazeem Ganiu 
+
+
+  _Full-Stack Web Developer (Intern @Stutern)
+  _Graduated from Ahmadu Bello University, Zaria
+  _10+ years of experience in IT and Telecommunication
+  _Regional Technical Officer with Interkel Group Africa
+  _Member of Gemstones Toastmasters Club, Kaduna
+  _Scrum Fundamental Certified
+
+
+  Add me on linkedin https://www.linkedin.com/in/kazeem-ganiu/
+
+01_HTML, CSS, Bootstrap
+02_Javascript
+03_Node.js
+04_React
+05_Angular
+06_Vue.js
+07_Microsoft Office(Word, Excel, Powerpoint) & Google Suite
+08_Product Management
+09_Cordination, supervision, effective collaboration
+10_Agile 
+
+
+Typical Site Tower Image
+
+A telecommunications network is a group of nodes interconnected by links that are used to exchange messages between the nodes. The links may use a variety of technologies based on the methodologies of circuit switching, message switching, or packet switching, to pass messages and signals.
+
+
+Site Inspection 
+Telecommunications facilitates interaction and information transfer over large distances. Businesses use telecommunications to expand and grow their networks. With Internet, computer, and telephone networks, businesses can allocate their resources efficiently. Sometimes, in other to ensuv 
+
+
+
+iPad app
+for the artists
+Lorem ipsum dolor amet sartorial quinoa 3 wolf moon, tilde neutra succulents vegan kitsch church-key vaporware. Pork belly thundercats iPhone tilde 90’s ugh. Narwhal post-ironic VHS affogato subway tile. Everyday carry copper mug art party, blue bottle normcore banh mi gastropub lomo fingerstache four dollar toast single-origin coffee hell of 3 wolf moon palo santo kinfolk.
+Photo by Marek Levák on Unsplash
+
+
+
+
+
+
+
+Color for the navigation
+#DBEBF4
